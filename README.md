@@ -19,5 +19,5 @@ Linux için :
 
 ```sh
 cd kodluyoruzilkrepo
-code . --save copy
+code . 
 ```
