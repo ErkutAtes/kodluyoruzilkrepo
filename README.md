@@ -4,5 +4,5 @@
 ![](https://github.com/ErkutAtes/kodluyoruzilkrepo/blob/main/resim.png)
 
 ## Installation
----
+
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek
