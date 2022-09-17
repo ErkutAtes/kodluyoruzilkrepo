@@ -17,8 +17,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için : 
 
-```sh 
+```sh
 cd kodluyoruzilkrepo
-code . 
---save copy
+code . --save copy
 ```
