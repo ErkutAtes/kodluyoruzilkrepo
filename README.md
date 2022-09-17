@@ -3,6 +3,6 @@
 
 ![](https://github.com/ErkutAtes/kodluyoruzilkrepo/blob/main/resim.png)
 
-# Installation
+## Installation
 ---
-## Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+### Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
