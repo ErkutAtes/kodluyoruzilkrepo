@@ -7,7 +7,7 @@
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```sh
-git clone https://github.com/ErkutAtes/kodluyoruzilkrepo --save copy
+git clone https://github.com/ErkutAtes/kodluyoruzilkrepo
 ```
 
 ## Usage
